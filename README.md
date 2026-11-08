@@ -1,12 +1,12 @@
-# 👨‍💻 Olá! Sou Analista de QA (Quality Assurance) 
+# 🧑🏻‍💻 Olá! Eu sou Jackson Analista de QA
 
 <div align="center">
 
-<img src="https://github.com/JacksonTestLab.png" width="150" alt="Foto de perfil"/>
+Jackson Test Lab - Onde código e qualidade se encontram. 🚀
 
-### 🔍 Quality Assurance | Testes de Software | Automação | API | SQL
+### ⚙️ Quality Assurance | Testes de Software | Automação | API | SQL | IA
 
-Buscando construir softwares mais confiáveis por meio de testes, análise crítica e melhoria contínua.
+Contribuindo para a construção de softwares mais confiáveis, compartilhando código, testes e aprendizados a cada evolução.
 
 [![GitHub](https://img.shields.io/badge/GitHub-JacksonTestLab-181717?style=for-the-badge&logo=github)](https://github.com/JacksonTestLab)
 
@@ -14,9 +14,9 @@ Buscando construir softwares mais confiáveis por meio de testes, análise crít
 
 ---
 
-## 🙋‍♂️ Sobre mim
+## 🙋🏻‍♂️ Sobre mim
 
-Sou profissional em desenvolvimento na área de **Quality Assurance (QA)**, com foco em qualidade de software, testes funcionais, automação de testes, validação de APIs e banco de dados.
+Sou **Jackson, Analista de QA**, em constante desenvolvimento profissional na área de Quality Assurance, com foco em qualidade de software, testes funcionais, automação de testes, validação de APIs e banco de dados.
 
 Meu objetivo é identificar falhas, investigar comportamentos inesperados e contribuir para a entrega de sistemas mais estáveis e confiáveis.
 
@@ -75,12 +75,12 @@ Atualmente, estou ampliando meus conhecimentos técnicos por meio de estudos e p
 | Área | Conhecimentos |
 |---|---|
 | Testes de Software | Testes funcionais, cenários e casos de teste |
-| Testes de API | Postman, Playwright, validação de endpoints e respostas HTTP |
-| Automação Web | Selenium WebDriver, Java e Playwright |
-| Relatórios de Testes | Allure Report, geração e análise de relatórios, evidências e resultados de execução |
-| Banco de Dados | SQL, PostgreSQL, MongoDB e validação de dados |
 | Qualidade | Identificação, investigação e documentação de bugs |
+| Automação Web | Selenium WebDriver e Playwright |
+| Testes de API | Postman, validação de endpoints e respostas HTTP |
+| Banco de Dados | SQL, PostgreSQL, MongoDB e validação de dados |
 | Versionamento | Git e GitHub |
+| Relatórios de Testes | Allure Report, geração e análise de relatórios, evidências e resultados de execução |
 | Documentação | Relatórios de execução, evidências e README |
 
 ---
@@ -102,15 +102,12 @@ Busco desenvolver projetos que demonstrem minha capacidade de analisar requisito
 <a href="https://www.linkedin.com/in/jackson-mendes-a4731a2b3/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://github.com/JacksonTestLab" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-JacksonTestLab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="mailto:jacksontestercode@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-Entre_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
-
 <a href="https://wa.me/5561981611583" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-Enviar_mensagem-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
@@ -120,6 +117,10 @@ Busco desenvolver projetos que demonstrem minha capacidade de analisar requisito
 ---
 
 <div align="center">
+
+### Jackson Test Lab
+
+**Transformando qualidade em confiança.**
 
 ⭐ Obrigado por visitar meu perfil!
 
