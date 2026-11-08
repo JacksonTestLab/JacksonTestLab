@@ -4,7 +4,7 @@
 
 Jackson Test Lab - Onde código e qualidade se encontram. 🚀
 
-### ⚙️ Quality Assurance | Testes de Software | Automação | API | SQL | IA
+### ⚙️ Quality Assurance | Testes de Software | Automação | WEB | API | SQL | IA
 
 Contribuindo para a construção de softwares mais confiáveis, compartilhando código, testes e aprendizados a cada evolução.
 
