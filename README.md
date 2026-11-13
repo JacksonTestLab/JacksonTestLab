@@ -37,25 +37,29 @@ Acredito que qualidade vai além de encontrar bugs: envolve compreender requisit
 
 ## 🚀 Projetos em destaque
 
-### 🧪 01. Automação de Testes Web
+### 🧪 01. Automação de Testes Web com Playwright
 
-Projeto prático voltado à automação de testes de aplicações web.
+Projeto prático voltado à automação de testes de aplicações web utilizando Playwright, com foco na criação, execução e validação de cenários de testes automatizados.
+
+**O objetivo** é desenvolver habilidades em automação de testes web, validar funcionalidades, identificar falhas e garantir a qualidade das aplicações por meio de testes automatizados.
 
 🔗 **Repositório:** [app.northwind](https://github.com/JacksonTestLab/app.northwind)
 
-### 🗄️ 02. SQL & Banco de Dados para QA
+### 🌐 02. Testes de API com Playwright
+
+Projeto prático relacionado à implementação e execução de testes de API utilizando Playwright.
+
+**O objetivo** é validar endpoints, verificar requisições e respostas HTTP, testar regras de negócio, analisar códigos de status e identificar inconsistências na comunicação entre sistemas.
+
+🔗 **Repositório:** [api.northwind](https://github.com/JacksonTestLab/api.northwind)
+
+### 🗄️ 03. SQL & Banco de Dados para QA
 
 Projeto prático desenvolvido durante os estudos de SQL e banco de dados para QA.
 
-O objetivo é validar dados diretamente na fonte, investigar inconsistências, identificar bugs que podem não ser visíveis pela interface e documentar evidências.
+**O objetivo** é validar dados diretamente na fonte, investigar inconsistências, identificar bugs que podem não ser visíveis pela interface e documentar evidências.
 
 🔗 **Repositório:** [sql-qa-professional](https://github.com/JacksonTestLab/sql-qa-professional)
-
-### 🌐 03. Testes de API com Playwright
-
-Projeto relacionado à prática de testes de API utilizando Playwright.
-
-🔗 **Repositório:** [api.northwind](https://github.com/JacksonTestLab/api.northwind)
 
 ---
 
@@ -63,11 +67,11 @@ Projeto relacionado à prática de testes de API utilizando Playwright.
 
 Atualmente, estou ampliando meus conhecimentos técnicos por meio de estudos e práticas direcionadas à área de QA.
 
-| Curso | Status |
+| Curso / Projeto | Status |
 |---|---|
 | 🔌 Testes de API com Postman | 🟡 Em andamento |
-| ☕ Selenium WebDriver + Java — Do Zero à Automação | 🟡 Em andamento |
-
+| ☕ Selenium WebDriver + Java | 🟡 Em andamento |
+| 🛒 Nova Aurora Store Test Lab | 🚧 Projeto em construção |
 ---
 
 ## 🎯 Competências em desenvolvimento
@@ -79,17 +83,18 @@ Atualmente, estou ampliando meus conhecimentos técnicos por meio de estudos e p
 | Automação Web | Selenium WebDriver e Playwright |
 | Testes de API | Postman, validação de endpoints e respostas HTTP |
 | Banco de Dados | SQL, PostgreSQL, MongoDB e validação de dados |
+| Backend / BaaS | Supabase, integração com banco de dados e gerenciamento de dados |
+| Deploy e Hospedagem | Vercel, publicação e deploy de aplicações web |
 | Versionamento | Git e GitHub |
 | Relatórios de Testes | Allure Report, geração e análise de relatórios, evidências e resultados de execução |
 | Documentação | Relatórios de execução, evidências e README |
-
 ---
 
 ## 🎯 Objetivo profissional
 
-Continuar evoluindo na área de Quality Assurance, fortalecendo meus conhecimentos em testes manuais, automação, testes de API e banco de dados.
+Continuar evoluindo na área de Quality Assurance, fortalecendo meus conhecimentos em testes manuais, automação, testes de API, banco de dados e utilização de Inteligência Artificial como apoio às atividades de qualidade de software.
 
-Busco desenvolver projetos que demonstrem minha capacidade de analisar requisitos, estruturar testes, investigar falhas e apresentar evidências claras dos resultados.
+Busco desenvolver projetos que demonstrem minha capacidade de analisar histórias de usuário, interpretar requisitos, validar critérios de aceitação, estruturar cenários e casos de teste, investigar falhas e apresentar evidências claras dos resultados.
 
 **Meu compromisso é transformar testes em informação útil para melhorar a qualidade do software.**
 
